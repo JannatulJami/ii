@@ -1,0 +1,93 @@
+5img {
+  width: 250px;
+  height: 150px;
+  border: dashed white;
+}
+body{
+  background-color: #eac3ca;
+}
+h1{
+  color: #f9f9f9;
+  font-family: Brush Script MT,
+  Lucida Handwriting;
+  font-size: 38px;
+  letter-spacing: 19px;
+  border: solid #f9f9f9;
+  border-radius: 15px;
+  padding: 10px;
+}
+h2{
+  color: #ffe5eb;
+  border: solid #9f757e;
+  padding: 5px;
+  border-radius: 10px;
+  font-family: Brush Script MT,
+  Lucida Handwriting;
+  letter-spacing:9px;
+}
+
+h3{
+  color: #ffe5eb;
+  border: solid #c48d9a;
+  border-radius: 10px;
+  font-family: Brush Script MT,
+  Lucida Handwriting;
+  letter-spacing:5px;
+  font-size: 20px;
+}
+h5{
+  color: #ffffff;
+  font-family: monospace;
+  letter-spacing:2px;
+  border: solid #f4c8d2;
+  font-size: 15px;
+}
+p{
+  color:#ffffff;
+  font-family: monospace;
+  font-size: 20px;
+}
+
+#hibiscus_img{
+  width: 250 px;
+  height: 200px;
+}
+.wave{
+  border: 3px;
+height: 25px;
+width: 80%;
+position: relative;
+left : 10%;
+transition: height 4s;
+display : block;
+  overflow: hidden;
+}
+#rose{
+  transition: height 4s;
+  border: solid #8a6a70;
+  }
+  #rose:hover{
+    height: 580px;
+    z-index: 1;
+}
+#flowers{
+  border: 3px solid #b983a0;
+  padding: 15px;
+}
+#hibiscus{
+  transition: height 4s;
+  border: solid pink;
+  }
+  #hibiscus:hover{
+    height: 490px;
+    z-index: 1;
+}
+#rafflesia{
+  transition: height 4s;
+  border: solid #d3a1aa;
+}
+
+#rafflesia:hover{
+height: 490px;
+  z-index:1;
+}
